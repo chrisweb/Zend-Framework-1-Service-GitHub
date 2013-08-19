@@ -1,7 +1,7 @@
 Zend-Framework-1-Service-GitHub
 ===============================
 
-Zend Framework 1 Service GitHub
+Very simple Zend Framework 1 Service for GitHub API v3
 
 Usage:
 ------
