@@ -9,6 +9,7 @@ Usage:
 IndexController.php
 
 <code>
+
     public function indexAction()
 	{
         
@@ -40,11 +41,13 @@ IndexController.php
         }
 	
 	}
+	
 </code>
 
 Bootstrap.php
 
 <code>
+
     protected function _initFilesCache()
 	{
 
@@ -71,4 +74,5 @@ Bootstrap.php
         return $this->filesCache;
 
     }
+	
 </code>
